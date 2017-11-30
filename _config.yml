@@ -1,10 +1,10 @@
 # Site settings
-name: 小可嗒嗒的博客
+name: 崔二爷的博客
 email: maoxiaoke@outlook.com
 author: M/J
-url: http://xiaokedada.com
-resume_site: http://xiaokedada.com/me/
-github: https://github.com/maoxiaoke/
+#url: http://xiaokedada.com
+#resume_site: http://xiaokedada.com/me/
+github: https://github.com/cuigeg/
 baseurl: ""  #根目录
 description: 假如生活欺骗了你，不要悲伤，不要哭泣。
 motto: 我们笑着说再见，却深知再见遥遥无期。
