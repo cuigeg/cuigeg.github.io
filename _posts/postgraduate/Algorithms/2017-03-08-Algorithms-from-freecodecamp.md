@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "我不会的算法题"
-date: 2017-11-30 09:00:00 +0800 
+date: 2017-01-30 09:00:00 +0800 
 categories: 豆芽菜也有春天
 tag: Algorithms
 ---
@@ -530,7 +530,7 @@ The binary string will be space separated.
 
 #### Code
 
-```javascript
+```
 function binaryAgent(str) {
   var arr = str.split(' '),tr='';
   for (var a in arr)
