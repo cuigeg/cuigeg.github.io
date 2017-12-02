@@ -10,7 +10,8 @@ abbr {text-decoration: none;}
 </style>
 <hr><h4 class="btn btn-primary btn-lg">博客</h4><hr>
 <ol class="rounded-list">
-<li><a href="http://cuigeg.github.io/" target="_blank">崔哥哥的博客</a></li>
+<li><a href="https://cuigeg.github.io/" target="_blank">崔哥哥的博客</a></li>
+<li><a href="http://lsblog.xyz" target="_blank">为尔盈--刘森的博客</a></li>
 <li><a href="http://ghmagical.com/" target="_blank">TG的博客</a></li>
 <li><a href="http://2ality.com/p/about.html" target="_blank">2ality</a></li>
 </ol>
